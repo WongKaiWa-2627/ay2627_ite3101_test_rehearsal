@@ -1,8 +1,7 @@
 def main():
     # Remove pass with your answer.
     pass
-        while True:
-            try:
+        
                 
 
 
