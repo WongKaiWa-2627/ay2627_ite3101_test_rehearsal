@@ -3,7 +3,7 @@ def main():
     pass
         while True:
             try:
-                num = int
+                num = int()
 
 
 if __name__ == "__main__":
