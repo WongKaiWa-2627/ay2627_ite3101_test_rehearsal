@@ -1,7 +1,7 @@
 def main():
     # Remove pass with your answer.
     pass
-        while ture
+        while True
 
 
 if __name__ == "__main__":
