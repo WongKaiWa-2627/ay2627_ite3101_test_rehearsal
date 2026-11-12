@@ -2,7 +2,7 @@ def main():
     # Remove pass with your answer.
     pass
         while True:
-            tye
+            try
 
 
 if __name__ == "__main__":
