@@ -2,7 +2,8 @@ def main():
     # Remove pass with your answer.
     pass
         while True:
-            try
+            try:
+                num = 
 
 
 if __name__ == "__main__":
